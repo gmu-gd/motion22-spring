@@ -31,9 +31,9 @@ textarea { resize: vertical; }
 
 html { font-size: 16px; }
 
-body { margin: 0; font-family: "bureau-grot", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.5; background-color: #EDEEF7 sq; color: #40394A; width: 100vw; overflow-x: hidden; }
+body { margin: 0; font-family: "bureau-grot", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.5; background-color: whitesmoke; color: #40394A; width: 100vw; overflow-x: hidden; }
 
-.interior { background-color: #EDEEF7 sq; }
+.interior { background-color: whitesmoke; }
 
 .interior img { max-width: 100%; }
 
@@ -67,7 +67,7 @@ nav li { float: none; margin: 10px 0; }
 
 nav li.mobile-nav:hover { cursor: pointer; }
 
-nav #menu { position: fixed; top: 0; left: 0; background-color: #EDEEF7 sq; width: 100vw; height: 100vh; z-index: 100; padding: 25px 50px; }
+nav #menu { position: fixed; top: 0; left: 0; background-color: whitesmoke; width: 100vw; height: 100vh; z-index: 100; padding: 25px 50px; }
 
 nav #menu li { font-size: 2em; margin: 30px 0; }
 
@@ -87,7 +87,7 @@ section { display: grid; grid-template-columns: 100%; grid-gap: 5vw; margin: 25p
 
 .student a, .tutorial a, .tutorial p, .tutorial h5 { transition: color .5s ease; }
 
-.student:hover a, .tutorial:hover a, .tutorial:hover p, .tutorial:hover h5 { color: #EDEEF7 sq; }
+.student:hover a, .tutorial:hover a, .tutorial:hover p, .tutorial:hover h5 { color: whitesmoke; }
 
 section.projects { display: block; }
 
@@ -111,7 +111,7 @@ p { font-size: 1.2rem; line-height: 1.6em; margin-top: .25em; margin-bottom: 1.2
 
 .description { margin-bottom: 25px; }
 
-.section-title { grid-column: span 1; text-transform: uppercase; letter-spacing: .1rem; color: #EDEEF7 sq; margin: 0; }
+.section-title { grid-column: span 1; text-transform: uppercase; letter-spacing: .1rem; color: whitesmoke; margin: 0; }
 
 .interior .section-title { color: #40394A; }
 
@@ -139,7 +139,7 @@ h4 { font-size: 1.2em; margin-top: 25px; text-transform: uppercase; letter-spaci
 
 h5 { font-size: 1.25em; text-transform: uppercase; letter-spacing: .1px; }
 
-.command { background-color: #8843F2; color: #EDEEF7 sq; white-space: nowrap; padding: 3px 3px; }
+.command { background-color: #8843F2; color: whitesmoke; white-space: nowrap; padding: 3px 3px; }
 
 .due { color: #EF2F88; font-size: 1rem; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; }
 
@@ -153,7 +153,7 @@ ul.date-list { padding: 0; margin-left: 0; }
 
 .spoiler::selection { background-color: #40394A; }
 
-code { color: #EDEEF7 sq; background-color: #40394A; white-space: pre-wrap; padding: 3px 3px; }
+code { color: whitesmoke; background-color: #40394A; white-space: pre-wrap; padding: 3px 3px; }
 
 small, .text-small { font-size: 0.8em; font-weight: 700; }
 
@@ -184,7 +184,7 @@ hr { border-top: 3px solid #8843F2; margin: 25px 0 50px; }
 .clearfix:after { clear: both; }
 
 /* ========================================================================== EXAMPLE Media Queries for Responsive Design. These examples override the primary ('mobile first') styles. Modify as content requires. ========================================================================== */
-@media only screen and (min-width: 520px) { header { position: relative; } main { width: 95vw; } h1 a, h1 a:hover, h1 a:active, h1 a:visited { color: #EDEEF7 sq; -webkit-text-stroke: 3px #40394A; } .interior h1 a, .interior h1 a:hover { border-bottom: none; color: #EDEEF7 sq; } h1 { margin-top: 0; font-size: 4.25em; text-transform: uppercase; letter-spacing: .1rem; font-weight: 700; color: #EDEEF7 sq; -webkit-text-stroke: 3px #40394A; } ul { text-decoration: none; list-style-type: none; text-align: left; } li { padding: 0; margin: 15px 0 0; text-transform: uppercase; letter-spacing: .05rem; font-weight: bold; float: none; } }
+@media only screen and (min-width: 520px) { header { position: relative; } main { width: 95vw; } h1 a, h1 a:hover, h1 a:active, h1 a:visited { color: whitesmoke; -webkit-text-stroke: 3px #40394A; } .interior h1 a, .interior h1 a:hover { border-bottom: none; color: whitesmoke; } h1 { margin-top: 0; font-size: 4.25em; text-transform: uppercase; letter-spacing: .1rem; font-weight: 700; color: whitesmoke; -webkit-text-stroke: 3px #40394A; } ul { text-decoration: none; list-style-type: none; text-align: left; } li { padding: 0; margin: 15px 0 0; text-transform: uppercase; letter-spacing: .05rem; font-weight: bold; float: none; } }
 
 @media only screen and (min-width: 620px) { nav { width: 100%; margin: 0; } nav ul { display: flow-root; } nav li.mobile-nav { display: none; } nav #menu { position: relative; top: initial; left: initial; width: initial; height: initial; z-index: initial; padding: 0; background-color: none; } nav #menu li { float: left; margin: 0 10px; font-size: 1em; } nav #menu li:first-of-type { margin: 0 10px 0 0; } nav .mobile-hide { display: block; } }
 

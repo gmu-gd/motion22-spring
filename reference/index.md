@@ -3,20 +3,24 @@ layout: interior
 title: Reference
 ---
 
-### Books
-* [_Type, Image, Message_ by Nancy Skolos and Tom Wedell](https://wrlc-gm.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_safari_books_9781592531899&context=PC&vid=01WRLC_GML:01WRLC_GML&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,type%20image%20message&offset=0)
+### Websites, Useful
+* [Class Vimeo Group](https://vimeo.com/groups/764701)
+* [DC in Motion](https://dcmotion.co/)
 
-### Websites
-* [International Poster Gallery](https://www.internationalposter.com/)
-* [Poster House](https://posterhouse.org/)
+### Websites, Tutorials
+* [Adobe After Effects Tutorials](https://helpx.adobe.com/after-effects/tutorials.html)
+* [School of Motion](https://www.schoolofmotion.com/)
 
 ### Articles
-* [Paula Scher and her love of the poster explained](https://www.typeroom.eu/content/paula-scher-and-her-love-poster-explained)
-
-### Visuals
-* [typo/graphic posters](https://www.typographicposters.com/)
+* [An Interview with Karin Fong](https://create.adobe.com/2018/5/11/type_and_title_seque.html)
+* [Shira Inbar on the Power of Motion in Graphic Design](https://eyeondesign.aiga.org/shira-inbar-on-the-power-of-motion-in-graphic-design/)
 
 ### Software
-* [Adobe InDesign](https://www.adobe.com/products/indesign.html)
+* [Adobe After Effects](https://www.adobe.com/products/xd.html)
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+
+### Visuals
+* [Pentagram Vimeo](https://vimeo.com/pentagramdesign) – [Muriel Cooper Bauhaus](https://vimeo.com/238311156)
+* [Duke and the Duck](https://vimeo.com/dukeduck)
+* [Art of the Title](https://www.artofthetitle.com/)
