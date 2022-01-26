@@ -25,7 +25,7 @@ Motion projects take thought and planning to execute well. This week we will cov
 
 #### Lessons
 * 2.1: Planning for Motion (Shots, Storyboards, Concept Boards, Animatics)
-* 7.2: The Moving Poster
+* 2.2: The Moving Poster
 
 #### Starting
 * E2: Making a Plan
@@ -61,7 +61,7 @@ Taking our knowledge a little further we will talk about the 12 Principles of An
 
 #### Class
 * 4.1: 12 Principles of Animation
-* 5.2: Graph Editor
+* 4.2: Graph Editor
 
 #### Starting
 * E4: Sound and Motion
@@ -81,7 +81,7 @@ The two topics covered this week are important for any motion project. Cuts and 
 
 #### Class
 * 5.1: Cuts and Transitions
-* 4.2: Null Objects and Parenting
+* 5.2: Null Objects and Parenting
 
 #### Starting
 * E5: Type in Motion
@@ -153,7 +153,7 @@ Individual meetings this week to present your final project beginnings.
 Logo reveals can add a lot of energy to a simple logo by bringing in a bit of motion. This week we will find some examples and create our own.
 
 #### Lessons
-* 9.1: Logo Reveals
+* 8.1: Logo Reveals
 
 #### Starting
 * E7: Logo Reveal
@@ -192,6 +192,7 @@ Group meetings to discuss your projects. For an out of class activity watch the 
 * _School of Motion:_ [After Effects Expressions 101](https://www.schoolofmotion.com/blog/after-effects-expressions-101)
 * _School of Motion:_ [Amazing Expressions in After Effects](https://www.schoolofmotion.com/blog/amazing-expressions-in-after-effects)
 * _School of Motion:_ [How to Use the Loop Expression in After Effects](https://www.schoolofmotion.com/blog/loop-expression-after-effects)
+
 ---
 
 ### April 28 &mdash; Week 14
