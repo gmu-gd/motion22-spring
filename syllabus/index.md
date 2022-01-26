@@ -44,14 +44,14 @@ Zoom (joining class sessions if necessary), Chrome, Safari, Firefox, or some oth
 ### Content
 This course consists of many shorter exercises, a few longer projects, quizzes, and in class discussions. The exercises are to begin to familiarize students with specific concepts and ideas and the projects are a synthesis of the concepts and ideas we will cover. Quizzes will review information from the lessons and discussions will be used for critiques and analysis of relevant topics.
 
-#### project 1: a simple sequence
-Concepts of time start to get fuzzy when dealing with individual frames. A 10 second video at 30 frames a second needs 300 frames to fill that time. This project will focus on the importance of designing for motion without actually animating anything. Students will create storyboards, reference boards, and concept boards for a short sequence. The sequence will not be animated. [More information here]({{ site.baseurl }}/projects).
+#### project 1: moving poster
+Posters are traditionally a static medium but with more and more poster displays going digital and AR becoming a more widely available tool, posters can come alive. You will design a moving poster for a future event that uses AR to transform the printed version into motion. [More information here]({{ site.baseurl }}/projects).
 
 
 #### project 2: obstructions
-Obstructions in design can seem like a burden but being able to use them as a creative starting point is key. Students will create a short video and then create the same video three more times. Each new video will be created using a series of obstructions chosen in class. [More information here]({{ site.baseurl }}/projects).
+Obstructions in design can seem like a burden but being able to use them as a creative starting point is key. You will create a short video and then create the same video three more times. Each new video will be created using a series of obstructions chosen in class. [More information here]({{ site.baseurl }}/projects).
 
-#### project 3: [various]
+#### project 3: something in motion
 Project three will give you the option of coming up with your own project or choosing from one of the projects I have listed. The project will be a culmination of the skills and concepts you have learned throughout this course. [More information here]({{ site.baseurl }}/projects).
 
 ### Engagement
@@ -86,7 +86,7 @@ Your ability to communicate with me is of prime importance in this course. If yo
 The same goes for if you are struggling in this class or having other issues that are hindering your ability to complete work in this class. The more you keep me in the loop the more I can help you and adjust as needed.
 
 ### Weekly Schedule
-Class is on Thursdays from 1:30–4:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. Unless otherwise specified, all work is due at the beginning of class.
+Class is on Thursdays from 10:30–1:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. Unless otherwise specified, all work is due at the beginning of class.
 
 A note&mdash;Time management is an important skill to master and should be worked on all your classes. Staying up all night working is not a badge of honor, it typically means you didn't budget your time correctly. Staying up all night isn't healthy and, especially now, making sure you are keeping yourself healthy is your first priority.
 
@@ -99,62 +99,38 @@ The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what 
 You will need to take an active role in both the presentation and discussion of your work. We will review projects in a variety of ways and you are expected to be able to talk and write about your own work and give feedback to your peers about their work. The ability to discuss your work and other student’s work is a very important part of your education at Mason. Use this class to improve on those skills.
 
 ### Visual Voices Lecture Series
-Visual Voices is a year-long series of lectures by artists, art historians and others about contemporary art and art practice. Visual Voices lectures are held on four Thursday evenings from 7:20&ndash;9:00 pm.
+Visual Voices is a year-long series of lectures by artists, art historians and others about contemporary art and art practice. Visual Voices lectures are held on four Thursday evenings from 7:20&ndash;9:00 pm:
 
 <ul class="date-list">
-<li><span class="date">February 11:</span> Wendy Red Star</li>
-<li><span class="date">February 25:</span> Rozeal</li>
-<li><span class="date">March 18:</span> Mia Eve Rollow</li>
-<li><span class="date">April 8:</span> Bruce Willen</li>
+<li><span class="date">Feb 10:</span> Wanda Raimundi-Ortiz</li>
+<li><span class="date">Feb 24:</span> Laurel Nakadate</li>
+<li><span class="date">Mar 10:</span> Paul Rucker</li>
+<li><span class="date">Apr 7:</span> Mario Rossero</li>
 </ul>
 
-For Fall 2021, this [lecture series](https://www.masonexhibitions.org/visual-voices-spring-2021) will be held online.
+For Spring 2022, this [lecture series](https://www.masonexhibitions.org/visual-voices-spring-2022) will be held online.
 
-### Town Hall: Listening Sessions on BIOPOC & Diversity
-The School of Art invites the students, faculty, and staff to a town hall/listening session on issues of diversity and black, indigenous, and people of color community.
+### School of Art Social Media Accounts
+IG: gmusoa / FB: gmu.soa / TW: gmusoa
 
-<ul class="date-list">
-<li><span class="date">February 22:</span> Monday at 7:30pm</li>
-<li><span class="date">March 17:</span> Wednesday at 7:30pm</li>
-<li><span class="date">April 19:</span> Monday at 7:30pm</li>
-</ul>
+### Writing Center and Library Resources
+Students who are in need of intensive help with grammar, structure or mechanics in their writing should make use of the services of Writing Center. For Spring 2022, the Writing Center is holding all sessions online, with writers choosing between meeting their tutor in real time on Zoom or uploading a draft for their tutor's written feedback. Please send your questions to wcenter@gmu.edu
 
-### Space Talk: Anti-racist Student Engagement Initiative
-Please join the School of Art for a virtual, forum style student panel facilitated by Will Wheeler where students will lead discussions about topics relating to inclusion, equity, and responsibility in the classroom, on campus, and anywhere else where people share space.
+Provisions Research Center for Art & Social Change is located in Room L001 of the Art & Design Building. This student resource assists students in exploring and engaging new models for artmaking that lead to a more inclusive, equitable, and connected society. Provisions is also a hub for developing art projects through Mason Exhibitions, the Mural Brigade, and art partners throughout the metropolitan area, and beyond. Contact Don Russell for more information: drusse10@gmu.edu
 
-<ul class="date-list">
-<li><span class="date">February 24:</span> "Language (academic and slang)"</li>
-<li><span class="date">March 24:</span> "Inclusion/Exculsion (in art, media, and entertainment)"</li>
-<li><span class="date">April 21:</span> "Responsibility (politics and activism)"</li>
-</ul>
+Art and Art History Librarian, Stephanie Grimm, will offer appointments and virtual office hours for the Spring 2022 semester: https://infoguides.gmu.edu/prf.php?account_id=123393
 
-All discussions will take place at 7:30pm.
+### Official Communications via Mason E-mail
+Students are responsible for the content of university communications sent to their George Mason University e-mail account and are required to activate their account and check it regularly. All communication from the university, college, school, and program will be sent to students solely through their Mason e-mail account.
 
-### Resilience Exhibition with Northern Virginia Community College
-Resilience Exhibition: Resilience comes in many forms and this past year has certainly tested our ability to adapt and persevere. This on-line exhibition seeks to celebrate the creative spirit in turbulent times. Artists are encouraged to share their personal narratives or social observations as they depict resilience through any medium. Any NOVA or Mason student is eligible to participate. Winners of 3 categories (People’s choice, Overall, Foundations) will receive a $100 prize. [Entry Form](https://bit.ly/33zqY9o)
-
-<ul class="date-list">
-<li><span class="date">Deadlines</span></li>
-<li><span class="date">February 22&ndash;28:</span> Artist submissions due by 11:59pm</li>
-<li><span class="date">March 15:</span> Digital Exhibition launch at noon</li>
-<li><span class="date">March 15&ndash;24:</span> Exhibition on view. Digital visitors can vote for their favorite works</li>
-</ul>
-
-### Artsbus
-Due to Covid, Fall 2020 dates for Artsbus have been cancelled.
+### Students with Disabilities and Learning Differences
+Students with disabilities who seek accommodations in a course must be registered with the George Mason University Office of Disability Services (ODS) and inform their instructor, in writing, at the beginning of the semester http://ods.gmu.edu
 
 ### Attendance Policies
 Students are expected to attend the class periods of the courses for which they register. In-class (including sections that meet online) participation is important not only to the individual student, but also to the class as a whole. Because class participation may be a factor in grading, instructors may use absence, tardiness, or early departure as de facto evidence of nonparticipation. Students who miss an exam with an acceptable excuse may be penalized according to the individual instructor's grading policy, as stated in the course syllabus.
 
 ### Honor Code
-To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University Community and with the desire for greater academic and personal achievement, we, the student members of the university community, have set forth this Honor Code: Student Members of the George Mason University community pledge not to cheat, plagiarize, steal, or lie in matters related to academic work. [Honor Code](https://oai.gmu.edu/mason-honor-code/)
-
-### Writing Center and Library Resources
-Students who are in need of intensive help with grammar, structure or mechanics in their writing should make use of the services of Writing Center. For Spring 2021, the Writing Center is holding all sessions online, with writers choosing between meeting their tutor in real time on Zoom or uploading a draft for their tutor's written feedback. Please send your questions to wcenter@gmu.edu
-
-Provisions Research Center for Art & Social Change is located in Room L001 of the Art & Design Building. This student resource assists students in exploring and engaging new models for artmaking that lead to a more inclusive, equitable, and connected society. Provisions is also a hub for developing art projects through Mason Exhibitions, the Mural Brigade, and art partners throughout the metropolitan area, and beyond. Contact Don Russell for more information: drusse10@gmu.edu
-
-University Art Librarian, [Stephanie Grimm](https://infoguides.gmu.edu/prf.php?account_id=123393), will have regular virtual office hours on Mondays and Tuesdays from 1:30pm to 2:30pm.
+To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University Community and with the desire for greater academic and personal achievement, we, the student members of the university community, have set forth this Honor Code: Student Members of the George Mason University community pledge not to cheat, plagiarize, steal, or lie in matters related to academic work. https://oai.gmu.edu/mason-honor-code/
 
 ### Responsible Employee Disclosure
 As a faculty member, I am designated as a “Responsible Employee,” and must report all disclosures of sexual assault, interpersonal violence, and stalking to Mason’s Title IX Coordinator per University Policy 1202. If you wish to speak with someone confidentially, please contact one of Mason’s confidential resources, such as Student Support and Advocacy Center (SSAC) at 703-380-1434 or Counseling and Psychological Services (CAPS) at 703-993-2380. You may also seek assistance from Mason’s Title IX Coordinator by calling 703-993-8730, or emailing titleix@gmu.edu
@@ -165,49 +141,54 @@ This class will be conducted as an intentionally inclusive community that celebr
 ### Statement on Ethics in Teaching and Practicing Art and Design
 As professionals responsible for the education of undergraduate and graduate art and design students, the faculty of the School of Art adheres to the ethical standards and practices incorporated in the professional Code of Ethics of our national accreditation organization, The National Association of Schools of Art and Design (NASAD).
 
-### Anti-racism Statement
-I explicitly reject white supremacy and racism and am committed to equity, justice, and democracy in society, on campus, and within my classrooms. No matter the name or label, anti-Black and anti-Semitic, and racist thought and action are antithetical to my mission and values as an educator. I condemn the divisive and intimidating tactics of white supremacist views.
+### Covid Protocols and Face Coverings
+For all vaccinated students, faculty, staff, contractors, and visitors, face coverings are required in all indoor University Facilities (i.e. indoor or enclosed spaces including buildings and vehicles) and traveling to/from sites off University Property for work or study if in a vehicle with other individuals. Face coverings are not required outdoors.
 
-I recognize that systemic racism is pervasive within our society and institutions, and pledge to combat it through receiving critical feedback on how I can be more inclusive and being more self-aware of my privileged identities. Including the use of collective teaching, programming, scholarship, and service. I want you, Mason’s students, to know that I am committed to fostering a classroom where everyone can learn without the chilling effects of bigoted views.
+For all unvaccinated students, faculty, staff, contractors, and visitors, all of the above applies, except face masks are required outdoors at events or where physical distancing cannot be maintained.
 
-I am determined to uphold the University’s mission, which states that, “We hold ourselves to the highest ethical standards as educators, scholars, and professionals,” and thus am committed to creating a culture of excellence, inclusion, and accessibility.
+For additional reference and updates, please see: https://www.gmu.edu/safe-return-campus/personal-and-public-health/face-coverings
 
-I welcome all members of our extended community regardless of their race, ethnicity, immigration status, religion, sexual identity, gender identity, socioeconomic status, political or institutional affiliation, and ability, and am fully dedicated to promoting a diversity of voices and views as an academic department.
+### CAPS at Mason is Here for You
+Counseling & Psychological Services provides a wide range of free services to students. CAPS offers crisis, counseling, and psychiatric services virtually, and limited services in person. Services are provided by a staff of licensed clinical psychologists, licensed professional counselors, licensed social workers, doctoral-level trainees, and a board-certified psychiatrist. Our individual and group counseling, workshops, and community education programs are designed to enhance students’ personal experience and academic performance. For distance learners, please see our [Resources for Distance Learning page](https://caps.gmu.edu/resources-for-distance-learning/). We also provide consultation to faculty and staff who have concerns about a student
 
-I recognize that there is still much self- and systemic-work to be done to make the spaces of the University safe and hospitable to all and am committed to continuing to do that work. My door is open to any students seeking support or guidance.
+CAPS provides short-term mental health services for enrolled students. When a student’s needs require a different level of care, CAPS works with students to transition care to community providers. If a student is currently seeing a professional in the community for therapy and can continue to work with them, we encourage the student to continue care with their current provider.
+
+In order to begin services with CAPS, please call us at 703-993-2380 during our business hours. Due to the rise in COVID cases, we are only offering services via telehealth during this time.
+
+If you are experiencing a crisis after our business hours or on weekends or holidays, please call us at 703-993-2380. Please select option 1 in our phone system to be connected to an after-hours crisis counselor.
+
+If you are interested in connecting with a provider in the community for long term counseling, please visit our [Find a Community Provider page](https://caps.gmu.edu/community-provider-search/) for our database of community provider options and other options for connecting with a therapist. If you have student health insurance through Aetna, you may also choose to access services through [TelaDoc](https://www.aetnastudenthealth.com/schools/Peace_of_Mind_ 8.5x11.pdf).
+
+### Anti-Racism Statement
+The School of Art plays an integral role in building an educational environment that is committed to anti-racism and inclusive excellence. An anti-racist approach to higher education acknowledges the ways that individual, interpersonal, institutional, and structural manifestations of racism against Black, Indigenous, and other people of color contribute to inequality and injustice in our classrooms, on our campuses, and in our communities.  It strives to provide our community members with resources to interrupt cycles of racism so as to cultivate a more equitable, inclusive, and just environment for all of our students, staff, faculty, alumni, and friends, regardless of racial background. An anti-racism approach is an active and ongoing, long-term process. In all our efforts, we uphold a commitment to creating honest, respectful, supportive, and healing spaces where members of our community can meaningfully dialogue and learn from each other’s lived experiences for the betterment of our entire community.
 
 ### Land Acknowledgment
-We acknowledge the Monacan Nation, including the Manahoac people, the traditional owners of the land and waters upon which our University stands.
-
-### Students with Disabilities and Learning Differences
-Students with disabilities who seek accommodations in a course must be registered with the George Mason University [Office of Disability Services (ODS)](http://ods.gmu.edu) and inform their instructor, in writing, at the beginning of the semester.
-
-### Official Communications via Mason e-mail
-Students are responsible for the content of university communications sent to their George Mason University e-mail account and are required to activate their account and check it regularly. All communication from the university, college, school, and program will be sent to students solely through their Mason e-mail account.
-
-### Important Deadlines:
-Once the add and drop deadlines have passed, instructors do not have the authority to approve requests from students to add or drop/withdraw late. Requests for late adds (up until the last day of classes) must be made by the student in the School of Art office (or the office of the department offering the course), and generally are only approved in the case of a documented university error (such as a problem with financial aid being processed), LATE ADD fee will apply. Requests for non-selective withdrawals and retroactive adds (adds after the last day of classes) must be approved by the academic dean of the college in which the student’s major is located. For AVT majors, that is the CVPA Office of Academic Affairs in College Hall.
-
-<ul class="date-list">
-<li><span class="date">January 18:</span> MLK Day: university closed</li>
-<li><span class="date">January 25:</span> First day of Spring classes</li>
-<li><span class="date">February 1:</span> Last day to add: all individual sections forms due</li>
-<li><span class="date">February 12:</span> Last day to drop: with 100% tuition refund</li>
-<li><span class="date">February 16:</span> Final drop deadline: last day for 50% tuition refund</li>
-<li><span class="date">February 17–March 1:</span> Unrestricted withdrawal period: 100% tuition liability</li>
-<li><span class="date">February 21–March 24:</span> Mid-term evaluation period: 100-200 level classes</li>
-<li><span class="date">March 2–April 1:</span> Selective withdrawal period (undergraduate students only)</li>
-<li><span class="date">March 26:</span> Incomplete work from fall 2020 due to instructor</li>
-<li><span class="date">April 2:</span> Incomplete grade changes from fall 2020 due to registrar</li>
-<li><span class="date">April 30:</span> Dissertation/thesis deadline</li>
-<li><span class="date">April 30:</span> Last day of class</li>
-<li><span class="date">May 1:</span> Reading day(s) faculty may schedule optional study sessions</li>
-<li><span class="date">May 3–10:</span> Examination period</li>
-<li><span class="date">May 14:</span> University commencement</li>
-</ul>
-
+At the place George Mason University occupies, we give greetings and thanksgivings to these Potomac River life sources, the Doeg ancestors, who Virginia annihilated in violent campaigns while ripping their lands apart with the brutal system of African American enslavement, to the recognized Virginia tribes who have lovingly stewarded these lands for millennia including the Rappahannock, Pamunkey, Upper Mattaponi, Chickahominy, Eastern Chickahominy, Nansemond, Monacan, Mattaponi, Patawomeck, and Nottaway, past, present, and future, and to the Piscataway tribes, who have lived on both sides of the river from time immemorial.
 
 ### Technology Requirements
-Note that this course requires/strongly recommends the use of Adobe Creative Cloud applications. With the suspension of in-person classes, CVPA computer labs will not be available to fulfill this requirement. If you do not already have an Adobe license and are interested in purchasing one or have an Adobe license and need to renew it, please visit [Adobe](https://www.adobe.com/creativecloud/buy/students.html). If you cannot afford an Adobe license, you may submit a request for funding to the Student Emergency Assistance Fund. Please visit [Student Emergency Assistance Fund](https://ulife.gmu.edu/student-emergency-assistance-funding-2-2/) to apply. Please note that the Adobe license agreement is on an annual basis.
+Note that this course requires/strongly recommends the use of Adobe Creative Cloud applications. If you do not already have an Adobe license and are interested in purchasing one or have an Adobe license and need to renew it, please visit https://www.adobe.com/creativecloud/buy/students.html. If you cannot afford an Adobe license, you may submit a request for funding to the Student Emergency Assistance Fund. Please visit https://ulife.gmu.edu/student-emergency-assistance-funding-2-2/ to apply. Please note that the Adobe license agreement is on an annual basis.
 
-The [Collaborative Learning Hub](https://its.gmu.edu/service/club/) Located in Johnson Center 311 (703-993-3141), the lab offers in-person one-on-one support for the Adobe Creative Suite, Microsoft Office, Blackboard, and a variety of other software. Dual monitor PCs make the lab ideal for collaborating on group projects, Macs are also available; as well as a digital recording space, collaborative tables, and a SMART Board. Reservations are strongly encouraged due to COVID-19 precautions and limited amounts of resources, but walk-ins will still be accepted so long as the occupancy of the lab does not exceed the maximum of 16 people.
+The Collaborative Learning Hub Located in Johnson Center 311 (703-993-3141), the lab offers in-person one-on-one support for the Adobe Creative Suite, Microsoft Office, Blackboard, and a variety of other software. Dual monitor PCs make the lab ideal for collaborating on group projects, Macs are also available; as well as a digital recording space, collaborative tables, and a SMART Board. Reservations are strongly encouraged due to COVID-19 precautions and limited amounts of resources, but walk-ins will still be accepted so long as the occupancy of the lab does not exceed the maximum of 16 people https://its.gmu.edu/service/club/
+
+### Important Deadlines
+<ul class="date-list">
+<li><span class="date">Jan 24:</span> First Day of Spring Classes</li>
+<li><span class="date">Jan 24:</span> Last Day to Submit Domicile Reclassification Application</li>
+<li><span class="date">Jan 31:</span> Last Day to Add: All Individual Sections Forms Due</li>
+<li><span class="date">Feb 7:</span> Last Day to Drop: With 100% Tuition Refund</li>
+<li><span class="date">Feb 14:</span> Final Drop Deadline: Last Day for 50% Tuition Refund</li>
+<li><span class="date">Feb 15&ndash;Mar 1:</span> Unrestricted Withdrawal Period: 100% Tuition Liability</li>
+<li><span class="date">Mar 14&ndash;Mar 20:</span> Spring Break (classes do not meet)</li>
+<li><span class="date">Feb 21&ndash;Mar 25:</span> Mid-Term Evaluation Period: 100-200 Level Classes Grades Available via patriotweb</li>
+<li><span class="date">Mar 2&ndash;Apr 11:</span> Selective Withdrawal Period Undergraduate Students Only (100% Tuition Liability)</li>
+<li><span class="date">Mar 25:</span> Incomplete Work from Fall 2021 Due to Instructor</li>
+<li><span class="date">Apr 1:</span> Incomplete Grade Changes from Fall 2021 Due to Registrar</li>
+<li><span class="date">May 6:</span> Dissertation/Thesis Deadline</li>
+<li><span class="date">May 7:</span> Last Day of Class</li>
+<li><span class="date">May 9&ndash;10:</span> Reading Days</li>
+<li><span class="date">Dec 11&ndash;18:</span> Examination Period</li>
+<li><span class="date">Dec 20:</span> University Commencement</li>
+<li><span class="date">Dec 21:</span> Degree Conferral Date</li>
+</ul>
+
+Once the add and drop deadlines have passed, instructors do not have the authority to approve requests from students to add or drop/withdraw late. Requests for late adds (up until the last day of classes) must be made by the student in the School of Art office (or the office of the department offering the course), and generally are only approved in the case of a documented university error (such as a problem with financial aid being processed), LATE ADD fee will apply. Requests for non-selective withdrawals and retroactive adds (adds after the last day of classes) must be approved by the academic dean of the college in which the student’s major is located. For AVT majors, that is the CVPA Office of Academic Affairs in College Hall.
