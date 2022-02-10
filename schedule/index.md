@@ -28,8 +28,7 @@ Motion projects take thought and planning to execute well. This week we will cov
 * 2.2: The Moving Poster
 
 #### Starting
-* E2: Making a Plan
-<!-- * E2: [Making a Plan]({{ site.baseurl }}/projects#e2) -->
+* E2: [Making a Plan]({{ site.baseurl }}/projects#e2)
 
 #### Digital References
 * _School of Motion:_ [What Are Animatics, and Why Are They Important?](https://www.schoolofmotion.com/blog/what-are-animatics-and-why-are-they-important)
@@ -52,6 +51,7 @@ After Effects is a complex and powerful program which we will only start to unde
 * _Adobe:_ [Get to Know After Effects](https://helpx.adobe.com/after-effects/how-to/getting-started-after-effects.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json&ref=helpx.adobe.com)
 * _Adobe:_ [Work with Compositions](https://helpx.adobe.com/after-effects/how-to/create-composition-animation.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json&ref=helpx.adobe.com)
 * _School of Motion:_ [3 Pro Tips for After Effects Beginners](https://www.schoolofmotion.com/blog/3-pro-tips-after-effects-beginners)
+* _School of Motion:_ [30 Essential Keyboard Shortcuts in After Effects](https://www.schoolofmotion.com/blog/30-essential-keyboard-shortcuts-in-after-effects)
 
 ---
 
