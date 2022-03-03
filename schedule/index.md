@@ -81,8 +81,8 @@ The two topics covered this week are important for any motion project. Cuts and 
 * 5.2: Graph Editor
 
 #### Starting
-* E5: Type in Motion
-<!-- * E5: [Type in Motion]({{ site.baseurl }}/projects#e5) -->
+<!-- * E5: Type in Motion -->
+* E5: [Type in Motion]({{ site.baseurl }}/projects#e5)
 
 #### Digital References
 * _School of Motion:_ [Six Essential Motion Design Transitions](https://www.schoolofmotion.com/blog/six-essential-motion-design-transitions-tutorial)
@@ -102,8 +102,8 @@ We dive a little deeper into After Effects this week looking at some animation t
 * 6.2: Masks and Mattes
 
 #### Starting
-* E6: Bouncing Ball
-<!-- * E6: [Bouncing Ball]({{ site.baseurl }}/projects#e6) -->
+<!-- * E6: Bouncing Ball -->
+* E6: [Bouncing Ball]({{ site.baseurl }}/projects#e6)
 
 #### Digital References
 * _School of Motion:_ [How to Use Masks in After Effects](https://www.schoolofmotion.com/blog/how-to-use-masks-in-after-effects)
